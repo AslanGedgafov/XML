@@ -1,0 +1,11 @@
+<bug_report>
+  <id>001</id>
+  <title>home page | logo icon | misspell</title>
+  <severity>high</severity>
+  <environment>windows10, google chrome ver.xx.xx.x</environment>
+  <preconditions>clean cooky and cash, close all irrelevant windows</preconditions>
+  <steps_to_reproduce>1.open website on home page</steps_to_reproduce>
+  <expected_result>logo icon according to requirments</expected_result>
+  <actual_result>logo icon misspeled</actual_result>
+  <attachments>none</attachments>
+</bug_report>
